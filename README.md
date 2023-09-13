@@ -3,10 +3,13 @@
 <h2> Salesforce Marketing Cloud Projects:</h2>
 
 - <b>Dynamic Emails</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ahelfer/osticket-prereqs)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ahelfer/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ahelfer/azure-network-protocols)
+  - [Bookworm - Kid's Digital Library](https://github.com/ahelfer/osticket-prereqs)
+- <b>Desktop/ Mobile Responsive Emails</b>
+  - [Sweet Cheeks](https://github.com/ahelfer/configure-ad)
+- <b>Welcome Series</b>
+  - [Northern Trails](https://github.com/ahelfer/configure-ad)
+ 
+
 
 <h2>Connect with me!:</h2>
 
