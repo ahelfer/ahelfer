@@ -7,7 +7,7 @@
 - <b>Desktop/ Mobile Responsive Emails</b>
   - [Sweet Cheeks](https://github.com/ahelfer/configure-ad)
 - <b>Welcome Series</b>
-  - [Northern Trails](https://github.com/ahelfer/configure-ad)
+  - [Northern Trails](https://github.com/ahelfer/ticket-lifecycle)
  
 
 
