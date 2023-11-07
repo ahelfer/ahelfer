@@ -3,7 +3,7 @@
 <h2> IOS APPS:</h2>
 
 - <b>FIFTY THIRTY TWENTY - A Budgeting App</b>
-  - [FIFTY THIRTY TWENTY](https://github.com/ahelfer/fiftythirtytwenty)
+  - [Check Me Out!](https://github.com/ahelfer/fiftythirtytwenty)
 
  
 
