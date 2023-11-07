@@ -3,7 +3,7 @@
 <h2> IOS APPS:</h2>
 
 - <b>FIFTY THIRTY TWENTY - A Budgeting App</b>
-  - [Bookworm - Kid's Digital Library](https://github.com/ahelfer/osticket-prereqs)
+  - [FIFTY THIRTY TWENTY](https://github.com/ahelfer/fiftythirtytwenty)
 
  
 
