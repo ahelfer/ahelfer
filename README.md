@@ -1,13 +1,10 @@
-<h1>Hi, I'm Amanda, a Design & Marketing Professional</a>☺</h1>
+<h1>Hi, I'm Amanda, a IOS Software Development Student</a>☺</h1>
 
-<h2> Salesforce Marketing Cloud Projects:</h2>
+<h2> IOS APPS:</h2>
 
-- <b>Dynamic Emails</b>
+- <b>FIFTY THIRTY TWENTY - A Budgeting App</b>
   - [Bookworm - Kid's Digital Library](https://github.com/ahelfer/osticket-prereqs)
-- <b>Desktop/ Mobile Responsive Emails</b>
-  - [Sweet Cheeks](https://github.com/ahelfer/configure-ad)
-- <b>Welcome Series</b>
-  - [Northern Trails](https://github.com/ahelfer/ticket-lifecycle)
+
  
 
 
