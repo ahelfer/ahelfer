@@ -1,5 +1,8 @@
 <h1>Hi, I'm Amanda</a>☺</h1>
 
+<h2> Jewelry CAD Portfolio:</h2>
+- <b>PORTFOLIO</b>
+
 <h2> IOS APPS:</h2>
 
 - <b>FIFTY THIRTY TWENTY - A Budgeting App</b>
