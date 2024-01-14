@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amanda, a IOS Software Development Student</a>☺</h1>
+<h1>Hi, I'm Amanda</a>☺</h1>
 
 <h2> IOS APPS:</h2>
 
